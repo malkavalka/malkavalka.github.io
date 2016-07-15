@@ -51,6 +51,14 @@ object {
 }
 
 
+.secondSection {
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(left, #ffffff 53%, #1ca2c6 53%, #1ca2c6 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #ffffff 53%,#1ca2c6 53%,#1ca2c6 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #ffffff 53%,#1ca2c6 53%,#1ca2c6 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#1ca2c6',GradientType=1 ); /* IE6-9 */
+}
+
 .marginLarge {
     
     margin-bottom: 3em;
