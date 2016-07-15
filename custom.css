@@ -1,0 +1,51 @@
+
+@font-face {
+	font-family: 'OpenSans-Regular';
+	src: url('../OpenSans-Regular.ttf'); /* IE9 Compat Modes */
+}
+
+h2 {
+	font-family: "OpenSans-Bold", sans-serif;
+	font-size: 36px;
+	padding-left: 10px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+    color: #666666;
+}
+
+.topbar {
+    background-color: #1CA2C6;
+}
+
+.topbar object {
+	padding: 15px 0 20px 0;
+}
+
+.topbar h1 {
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+
+object {
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+}
+
+
+.fullwidth {
+    width: 100%;
+}
+
+.lastSection {
+    
+    background-color: #13506C;
+}
+
+
+
+.firstSection {
+    
+    background-color: #1CA2C6;
+}
