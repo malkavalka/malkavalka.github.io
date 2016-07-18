@@ -3,6 +3,10 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1175 1565" style="enable-background:new 0 0 1175 1565;" xml:space="preserve">
 <style type="text/css">
+    @font-face {
+	font-family: 'Century Gothic';
+	src: url('../GOTHIC.ttf'); /* IE9 Compat Modes */
+}
 	.st0{fill:#1CA2C6;}
 	.st1{fill:none;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
