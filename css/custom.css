@@ -13,13 +13,13 @@
 
 @font-face {
 	font-family: 'Helen Pro Regular';
-	src: url('Helen Pro Regular.otf'); /* IE9 Compat Modes */
+	src: url('../Helen Pro Regular.otf'); /* IE9 Compat Modes */
 }
 
 
 @font-face {
 	font-family: 'Helen Pro Bold';
-	src: url('Helen Pro Bold.otf'); /* IE9 Compat Modes */
+	src: url('../Helen Pro Bold.otf'); /* IE9 Compat Modes */
 }
 
 
