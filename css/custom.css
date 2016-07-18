@@ -4,8 +4,27 @@
 	src: url('../OpenSans-Regular.ttf'); /* IE9 Compat Modes */
 }
 
+
+@font-face {
+	font-family: 'Century Gothic';
+	src: url('../GOTHIC.ttf'); /* IE9 Compat Modes */
+}
+
+
+@font-face {
+	font-family: 'Helen Pro regular';
+	src: url('Helen Pro Reguular'); /* IE9 Compat Modes */
+}
+
+
+@font-face {
+	font-family: 'Helen Pro Bold';
+	src: url('Helen Pro Bold'); /* IE9 Compat Modes */
+}
+
+
 h2 {
-	font-family: "OpenSans-Bold", sans-serif;
+	font-family: "Helen Pro Bold", sans-serif;
 	font-size: 36px;
 	padding-left: 10px;
 	padding-top: 40px;
