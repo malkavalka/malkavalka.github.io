@@ -20,9 +20,9 @@
 	.st14{clip-path:url(#SVGID_38_);}
 	.st15{clip-path:url(#SVGID_42_);fill:url(#SVGID_43_);}
 	.st16{fill:#FFFFFF;}
-	.st17{font-family:'OpenSans';}
+	.st17{font-family:'HelenPro-Regular';}
 	.st18{font-size:32.8702px;}
-	.st19{font-family:'OpenSans-Extrabold';}
+	.st19{font-family:'HelenPro-Bold';}
 	.st20{font-size:39.4443px;}
 	.st21{opacity:0.15;fill:#13110C;stroke:#13110C;stroke-miterlimit:10;}
 	.st22{fill:url(#SVGID_44_);}
@@ -78,7 +78,7 @@
 	.st72{opacity:0.15;}
 	.st73{fill:#625C42;}
 	.st74{fill:#363330;}
-	.st75{font-family:'OpenSans-Bold';}
+	.st75{font-family:'HelenPro-Bold';}
 	.st76{font-size:20.3022px;}
 	.st77{font-size:55.0323px;}
 	.st78{clip-path:url(#SVGID_72_);}
