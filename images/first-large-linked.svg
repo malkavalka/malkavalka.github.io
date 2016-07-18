@@ -4,8 +4,8 @@
 	 viewBox="0 0 1175 1565" style="enable-background:new 0 0 1175 1565;" xml:space="preserve">
 <style type="text/css">
     @font-face {
-	font-family: 'Century Gothic';
-	src: url('GOTHIC.ttf'); /* IE9 Compat Modes */
+	font-family: 'Helen Pro';
+	src: url('Helen pro Regular.otf'); /* IE9 Compat Modes */
 }
 	.st0{fill:#1CA2C6;}
 	.st1{fill:none;}
