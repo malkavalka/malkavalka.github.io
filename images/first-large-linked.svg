@@ -5,7 +5,7 @@
 <style type="text/css">
     @font-face {
 	font-family: 'Century Gothic';
-	src: url('../GOTHIC.ttf'); /* IE9 Compat Modes */
+	src: url('GOTHIC.ttf'); /* IE9 Compat Modes */
 }
 	.st0{fill:#1CA2C6;}
 	.st1{fill:none;}
