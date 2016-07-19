@@ -2,28 +2,14 @@
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1175 1565" style="enable-background:new 0 0 1175 1565;" xml:space="preserve">
-
-<defs>
 <style type="text/css">
-<![CDATA[
-    @font-face {
-        font-family: "HelenPro-Regular";
-        src: local("HelenProRegular"), /* IE */
-            url("../HelenProRegular.otf");
-    }
-]]>
-</style>
-</defs>
-    
-<style type="text/css">
-    
 	.st0{fill:#1CA2C6;}
 	.st1{fill:none;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.981;}
 	.st4{fill:none;stroke:#7E1630;stroke-miterlimit:10;}
 	.st5{fill:#AE1838;}
-	.st6{font-family:'HelenPro-Regular‘, 'Arial', sans-serif;}
+	.st6{font-family:'HelenPro-Regular';}
 	.st7{font-size:51.6794px;}
 	.st8{font-size:20.5073px;}
 	.st9{opacity:0.1;}
@@ -63,7 +49,7 @@
 	.st43{fill:none;stroke:#80162D;stroke-width:2;stroke-miterlimit:10;}
 	.st44{fill:none;stroke:#89181A;stroke-miterlimit:10;}
 	.st45{font-size:30.1712px;}
-	.st46{font-family:'HelenPro-Regular', 'Arial', sans-serif;}
+	.st46{font-family:'HelenPro-Regular';}
 	.st47{font-size:48px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
 </style>
