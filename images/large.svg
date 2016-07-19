@@ -24,29 +24,31 @@
 <g>
 	<g>
 		<g>
-			<defs>
-				<polygon id="SVGID_1_" points="0,272.4 0,419.3 324.1,419.3 356,345.9 324.1,272.4 				"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			
-				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-76.4205" y1="-74.8464" x2="-75.4714" y2="-74.8464" gradientTransform="matrix(375.1194 0 0 375.1194 28666.8008 28422.1992)">
-				<stop  offset="0" style="stop-color:#191816"/>
-				<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
-				<stop  offset="0.1505" style="stop-color:#202528"/>
-				<stop  offset="0.2829" style="stop-color:#222B32"/>
-				<stop  offset="0.4366" style="stop-color:#212F38"/>
-				<stop  offset="0.6311" style="stop-color:#21313C"/>
-				<stop  offset="1" style="stop-color:#21313D"/>
-			</linearGradient>
-			<rect y="272.4" class="st0" width="356" height="146.9"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_1_" points="0,272.4 0,419.3 324.1,419.3 356,345.9 324.1,272.4 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="304.5612" y1="778.2143" x2="305.5102" y2="778.2143" gradientTransform="matrix(375.1194 0 0 -375.1194 -114246.8047 292269.125)">
+					<stop  offset="0" style="stop-color:#191816"/>
+					<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
+					<stop  offset="0.1505" style="stop-color:#202528"/>
+					<stop  offset="0.2829" style="stop-color:#222B32"/>
+					<stop  offset="0.4366" style="stop-color:#212F38"/>
+					<stop  offset="0.6311" style="stop-color:#21313C"/>
+					<stop  offset="1" style="stop-color:#21313D"/>
+				</linearGradient>
+				<rect y="272.4" class="st0" width="356" height="146.9"/>
+			</g>
 		</g>
 	</g>
 	<g>
 		<g>
 			
-				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="759.3" y1="472.05" x2="785" y2="472.05" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="759.3" y1="92.95" x2="785" y2="92.95" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#191816"/>
 				<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
 				<stop  offset="0.1505" style="stop-color:#202528"/>
@@ -58,7 +60,7 @@
 			<path class="st1" d="M784.4,391.9c0.1-1.8,0.6-8.3,0.6-10.1c0-9.6-2.7-23.5-5-32.3l-20.7,2.1c1.7,6.8,5.4,22.9,5.4,30.3
 				c0,1.8-0.8,10.8-1,12.5L784.4,391.9z"/>
 			
-				<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="566.2" y1="450" x2="784.4999" y2="450" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="566.2" y1="115" x2="784.4999" y2="115" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#191816"/>
 				<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
 				<stop  offset="0.1505" style="stop-color:#202528"/>
@@ -69,7 +71,7 @@
 			</linearGradient>
 			<path class="st2" d="M764.3,388.9c-3.6,45.8-41.9,81.9-88.7,81.9c-49.2,0-89-39.9-89-89c0-49.2,39.9-89,89-89
 				c41.2,0,75.8,28,85.9,66.1l19.3-6.5c-12.9-46-55.1-79.9-105.2-79.9c-60.4,0-109.4,49-109.4,109.4c0,55.4,41.3,101.1,94.7,108.3
-				l14.6,25.3l14.6-25.3c51.1-6.9,91-49,94.4-101.1h-20.2V388.9z"/>
+				l14.6,25.3l14.6-25.3c51.1-6.9,91-49,94.4-101.1h-20.2L764.3,388.9L764.3,388.9z"/>
 		</g>
 		<g>
 			<path class="st3" d="M631.8,370.3l5.2,7.8c1.3,2,2.5,3.9,3.7,5.9h0.2c1.2-2.2,2.4-4,3.6-6l5.1-7.7h7.1l-12.3,17.5l12.7,18.7h-7.5
@@ -84,22 +86,24 @@
 	</g>
 	<g>
 		<g>
-			<defs>
-				<polygon id="SVGID_6_" points="0,413 0,560.8 517.3,560.8 568.7,486.9 517.3,413 				"/>
-			</defs>
-			<clipPath id="SVGID_7_">
-				<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
-			</clipPath>
-			
-				<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-78.9781" y1="-74.6614" x2="-77.5773" y2="-74.6614" gradientTransform="matrix(407 0 0 407 32142.6719 30874.0938)">
-				<stop  offset="0" style="stop-color:#921838"/>
-				<stop  offset="3.175431e-02" style="stop-color:#971839"/>
-				<stop  offset="0.1555" style="stop-color:#A6183B"/>
-				<stop  offset="0.3062" style="stop-color:#B1173D"/>
-				<stop  offset="0.5101" style="stop-color:#B7173D"/>
-				<stop  offset="1" style="stop-color:#B9173E"/>
-			</linearGradient>
-			<rect y="413" class="st4" width="568.7" height="147.8"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_6_" points="0,413 0,560.8 517.3,560.8 568.7,486.9 517.3,413 					"/>
+				</defs>
+				<clipPath id="SVGID_7_">
+					<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="302.0833" y1="778.0005" x2="303.4841" y2="778.0005" gradientTransform="matrix(407 0 0 -407 -122949.3281 317133.0938)">
+					<stop  offset="0" style="stop-color:#921838"/>
+					<stop  offset="3.175431e-02" style="stop-color:#971839"/>
+					<stop  offset="0.1555" style="stop-color:#A6183B"/>
+					<stop  offset="0.3062" style="stop-color:#B1173D"/>
+					<stop  offset="0.5101" style="stop-color:#B7173D"/>
+					<stop  offset="1" style="stop-color:#B9173E"/>
+				</linearGradient>
+				<rect y="413" class="st4" width="568.7" height="147.8"/>
+			</g>
 		</g>
 	</g>
 	<g>
@@ -112,7 +116,7 @@
 			<path class="st9" d="M445.7,134.7c48.1,0.5,86.9,39.6,86.9,87.8c0,1.8-0.2,3.5-0.3,5.2h20.1c0.1-1.7,0.2-3.5,0.2-5.2
 				c0-59.3-47.8-107.3-107-107.8L445.7,134.7L445.7,134.7z"/>
 			
-				<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="337" y1="609.5" x2="552.2999" y2="609.5" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="337" y1="-44.5" x2="552.2999" y2="-44.5" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#921838"/>
 				<stop  offset="3.175431e-02" style="stop-color:#971839"/>
 				<stop  offset="0.1555" style="stop-color:#A6183B"/>
@@ -148,7 +152,7 @@
 		<text transform="matrix(1 0 0 1 64.3885 390.3329)" class="st6 st7 st8">подобрила в облака</text>
 		<g>
 			
-				<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="37.5" y1="714.35" x2="255.6" y2="714.35" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="37.5" y1="-149.35" x2="255.6" y2="-149.35" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#191816"/>
 				<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
 				<stop  offset="0.1505" style="stop-color:#202528"/>
@@ -179,43 +183,47 @@
 	</g>
 	<g>
 		<g>
-			<defs>
-				<polygon id="SVGID_11_" points="0,559.7 0,699 740.9,699 814.6,629.3 740.9,559.7 				"/>
-			</defs>
-			<clipPath id="SVGID_12_">
-				<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
-			</clipPath>
-			
-				<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="-76.795" y1="-74.0907" x2="-73.4785" y2="-74.0907" gradientTransform="matrix(375.1194 0 0 375.1194 28807.3008 28422.1992)">
-				<stop  offset="0" style="stop-color:#191816"/>
-				<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
-				<stop  offset="0.1505" style="stop-color:#202528"/>
-				<stop  offset="0.2829" style="stop-color:#222B32"/>
-				<stop  offset="0.4366" style="stop-color:#212F38"/>
-				<stop  offset="0.6311" style="stop-color:#21313C"/>
-				<stop  offset="1" style="stop-color:#21313D"/>
-			</linearGradient>
-			<rect y="559.7" class="st13" width="1244.1" height="139.3"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_11_" points="0,559.7 0,699 740.9,699 814.6,629.3 740.9,559.7 					"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="304.1866" y1="777.4586" x2="307.5032" y2="777.4586" gradientTransform="matrix(375.1194 0 0 -375.1194 -114106.3047 292269.125)">
+					<stop  offset="0" style="stop-color:#191816"/>
+					<stop  offset="3.293890e-02" style="stop-color:#1B1C1B"/>
+					<stop  offset="0.1505" style="stop-color:#202528"/>
+					<stop  offset="0.2829" style="stop-color:#222B32"/>
+					<stop  offset="0.4366" style="stop-color:#212F38"/>
+					<stop  offset="0.6311" style="stop-color:#21313C"/>
+					<stop  offset="1" style="stop-color:#21313D"/>
+				</linearGradient>
+				<rect y="559.7" class="st13" width="1244.1" height="139.3"/>
+			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<defs>
-				<polygon id="SVGID_14_" points="0,699.2 0,842 975.5,842 1073.3,770.6 975.5,699.2 				"/>
-			</defs>
-			<clipPath id="SVGID_15_">
-				<use xlink:href="#SVGID_14_"  style="overflow:visible;"/>
-			</clipPath>
-			
-				<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="-76.814" y1="-73.9644" x2="-74.1705" y2="-73.9644" gradientTransform="matrix(407 0 0 407 31260.6719 30874.0938)">
-				<stop  offset="0" style="stop-color:#921838"/>
-				<stop  offset="3.175431e-02" style="stop-color:#971839"/>
-				<stop  offset="0.1555" style="stop-color:#A6183B"/>
-				<stop  offset="0.3062" style="stop-color:#B1173D"/>
-				<stop  offset="0.5101" style="stop-color:#B7173D"/>
-				<stop  offset="1" style="stop-color:#B9173E"/>
-			</linearGradient>
-			<rect y="699.2" class="st14" width="1073.3" height="142.8"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_14_" points="0,699.2 0,842 975.5,842 1073.3,770.6 975.5,699.2 					"/>
+				</defs>
+				<clipPath id="SVGID_15_">
+					<use xlink:href="#SVGID_14_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="304.2474" y1="777.3034" x2="306.8909" y2="777.3034" gradientTransform="matrix(407 0 0 -407 -123831.3281 317133.0938)">
+					<stop  offset="0" style="stop-color:#921838"/>
+					<stop  offset="3.175431e-02" style="stop-color:#971839"/>
+					<stop  offset="0.1555" style="stop-color:#A6183B"/>
+					<stop  offset="0.3062" style="stop-color:#B1173D"/>
+					<stop  offset="0.5101" style="stop-color:#B7173D"/>
+					<stop  offset="1" style="stop-color:#B9173E"/>
+				</linearGradient>
+				<rect y="699.2" class="st14" width="1073.3" height="142.8"/>
+			</g>
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 441.7212 609.2666)" class="st6 st7 st8">Моделът на облака е 40 пъти </text>
@@ -229,7 +237,7 @@
 	<g>
 		<g>
 			
-				<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="998.6357" y1="318.45" x2="1024.3357" y2="318.45" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="998.6357" y1="246.55" x2="1024.3357" y2="246.55" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#921838"/>
 				<stop  offset="3.175431e-02" style="stop-color:#971839"/>
 				<stop  offset="0.1555" style="stop-color:#A6183B"/>
@@ -240,7 +248,7 @@
 			<path class="st15" d="M1023.8,545.5c0.1-1.8,0.6-8.3,0.6-10.1c0-9.6-2.7-23.5-5-32.3l-20.7,2.1c1.7,6.8,5.4,22.9,5.4,30.3
 				c0,1.8-0.8,10.8-1,12.5L1023.8,545.5z"/>
 			
-				<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="805.6" y1="296.45" x2="1024" y2="296.45" gradientTransform="matrix(1 0 0 -1 0 844)">
+				<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="805.6" y1="268.55" x2="1024" y2="268.55" gradientTransform="matrix(1 0 0 1 0 279)">
 				<stop  offset="0" style="stop-color:#921838"/>
 				<stop  offset="3.175431e-02" style="stop-color:#971839"/>
 				<stop  offset="0.1555" style="stop-color:#A6183B"/>
