@@ -62,7 +62,7 @@
   <style type="text/css">
     @font-face {
       font-family: 'HelenPro-Regular';
-      src: url('HelenProRegular.otf');
+      src: local('HelenProRegular.otf');
     }
   </style>
 </defs>
