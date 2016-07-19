@@ -10,7 +10,7 @@
         font-family: "HelenPro-Regular";
         src: local("HelenProRegular"), /* IE */
             local("HelenProRegular"),
-            url("HelenProRegular.otf");
+            url("../HelenProRegular.otf");
     }
 ]]>
 </style>
