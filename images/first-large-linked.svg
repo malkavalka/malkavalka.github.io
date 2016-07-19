@@ -58,6 +58,14 @@
 	.st52{font-size:48px;}
 	.st53{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
 </style>
+<defs>
+  <style type="text/css">
+    @font-face {
+      font-family: 'Helen Pro-Regular';
+      src: url('Helen Pro regular.otf');
+    }
+  </style>
+</defs>
 <a xlink:href="https://onecloud.bg/bg/za-nas/sigurnost" >
 	<path class="st0" d="M60,0c15.2,28,37.3,50.4,63.5,64.1c-5.7,11.6-9,25.1-9,39.5c0,31.8,16,59.3,39.1,72.1
 		c-10.7,10-17.6,25.4-17.6,42.7c0,29.8,20.5,54,45.9,54.7v1.9c-16.1,0-29.2,15.2-29.2,34c0,2,0.2,4,0.5,5.9
