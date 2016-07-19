@@ -61,7 +61,7 @@
 <defs>
   <style type="text/css">
     @font-face {
-      font-family: 'Helen Pro-Regular';
+      font-family: 'HelenPro-Regular';
       src: url('Helen Pro regular.otf');
     }
   </style>
