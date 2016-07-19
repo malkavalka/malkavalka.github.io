@@ -7,11 +7,12 @@
         font-family: "HelenPro-Regular";
         src: local("HelenProRegular"), /* IE */
             url("../HelenProRegular.otf");
-
-        font-family: "HelenPro-Bold";
+}
+    @font-face {
+            font-family: "HelenPro-Bold";
         src: local("HelenProBold"), /* IE */
             url("../HelenProBold.otf");
-    }
+}
 ]]>
     
 <style type="text/css">
