@@ -9,7 +9,7 @@
 	.st3{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.981;}
 	.st4{fill:none;stroke:#7E1630;stroke-miterlimit:10;}
 	.st5{fill:#AE1838;}
-	.st6{font-family:'HelenPro-Regular', 'Arial', sans-serif;}
+	.st6{font-family:'HelenProRegular', 'Arial', sans-serif;}
 	.st7{font-size:51.6794px;}
 	.st8{font-size:20.5073px;}
 	.st9{opacity:0.1;}
@@ -49,7 +49,7 @@
 	.st43{fill:none;stroke:#80162D;stroke-width:2;stroke-miterlimit:10;}
 	.st44{fill:none;stroke:#89181A;stroke-miterlimit:10;}
 	.st45{font-size:30.1712px;}
-	.st46{font-family:'HelenPro-Regular', 'Arial', sans-serif;}
+	.st46{font-family:'HelenProBold', 'Arial', sans-serif;}
 	.st47{font-size:48px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
 </style>

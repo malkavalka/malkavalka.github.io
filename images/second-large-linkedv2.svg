@@ -5,9 +5,9 @@
 <style type="text/css">
 	.st0{fill:#E72A4B;}
 	.st1{fill:#FFFFFF;}
-	.st2{font-family:'HelenPro-Bold';}
+	.st2{font-family:'HelenProBold', 'Arial', sans-serif;}
 	.st3{font-size:39.1783px;}
-	.st4{font-family:'HelenPro-Regular';}
+	.st4{font-family:'HelenProRegular', 'Arial', sans-serif;}
 	.st5{font-size:24.1984px;}
 	.st6{fill:#008CB0;}
 	.st7{font-size:20.7415px;}
